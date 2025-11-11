@@ -1,0 +1,37 @@
+## 🚀 오늘 내가 배운 것들(Today I Learned)
+
+### [11월 둘째주, 9주차] : 클라우드 컴퓨팅
+
+[25.11.11](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-11.md) - [AWS - 배포, 트래픽 분산]
+
+[25.11.10](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-10.md) - [AWS - 네트워크/접근제어, 스토리지]
+
+### [11월 첫째주, 8주차] : 리눅스 & OS, 네트워크
+
+[25.11.08](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-08.md) - [개인 프로젝트에 무한스크롤, 페이징 적용]
+
+[25.11.07](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-06.md) - [대규모 이벤트 상황에서의 네트워크 병목 완화 전략은 무엇일까] - [딥다이브](https://velog.io/@yujin22/DeepDive-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%91%EB%AA%A9-%ED%98%84%EC%83%81%EC%9D%84-%EC%99%84%ED%99%94%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%A0%84%EB%9E%B5)
+
+[25.11.06](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-06.md) - [네트워크 모델, IP]
+
+[25.11.05](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-05.md) - [네트워크 용어 추가] - [배포과정](https://velog.io/@yujin22/%EB%8B%A8%EC%9D%BC-EC2%EC%97%90%EC%84%9C-Express-Spring-MySQL-%EB%B9%85%EB%B1%85-%EB%B0%B0%ED%8F%AC)
+
+[25.11.04](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-04.md) - [네트워크 기초,장비,용어]
+
+[25.11.03](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-03.md) - [운영체제 기본: 프로세스·스레드, 메모리, 동기화] - [개념정리](https://www.notion.so/OS-29fd4ce9f53f8081ac01eb48db901dc3?source=copy_link)
+
+### [10월 다섯째주, 7주차] : 인증인가
+
+[25.10.31](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-31.md) - [서버 입장에서의 진정한 로그아웃이란] - [딥다이브](https://www.notion.so/29dd4ce9f53f80c69ed7e138fdba0903?source=copy_link)
+
+[25.10.30](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-30.md) - [OAuth]
+
+[25.10.29](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-29.md) - [필터와 인터셉트]
+
+[25.10.28](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-28.md) - [브라우저 저장소]
+
+[25.10.27](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-27.md) - [JWT]
+
+### [10월 넷째주, 6주차] : Thymeleaf, Spring 보충
+
+[25.10.23](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-23.md) - [Spring 파일처리]

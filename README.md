@@ -37,3 +37,5 @@
 ### [10월 넷째주, 6주차] : Thymeleaf, Spring 보충
 
 [25.10.23](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-23.md) - [Spring 파일처리]
+
+[25.10.22](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-22.md) - [Spring 예외처리]

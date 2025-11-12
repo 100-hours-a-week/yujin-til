@@ -2,7 +2,7 @@
 
 ### [11월 둘째주, 9주차] : 클라우드 컴퓨팅
 
-[25.11.12](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-12.md) - [AWS - ]
+[25.11.12](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-12.md) - [AWS - Lambda]
 
 [25.11.11](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-11.md) - [AWS - 배포, 트래픽 분산]
 

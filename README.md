@@ -2,6 +2,8 @@
 
 ### [11월 둘째주, 9주차] : 클라우드 컴퓨팅
 
+[25.11.14](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-14.md) - [Route 53과 ELB를 활용해 글로벌 트래픽을 분산 처리하는 방법] - [딥다이브](https://velog.io/@yujin22/DeepDive-Route-53%EA%B3%BC-ELB%EC%9D%98-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%84-%EB%B6%84%EC%82%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+
 [25.11.13](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-13.md) - [AWS - 모니터링, 배포]
 
 [25.11.12](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-12.md) - [AWS - Lambda]

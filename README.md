@@ -2,6 +2,8 @@
 
 ### [11월 셋째주, 10주차] : DevOps
 
+[25.11.18](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-18.md) - [컨테이너 관리]
+
 [25.11.17](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-17.md) - [컨테이너 기초]
 
 ### [11월 둘째주, 9주차] : 클라우드 컴퓨팅

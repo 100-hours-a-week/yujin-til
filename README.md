@@ -56,4 +56,8 @@
 
 [25.10.20](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-20.md) - [Servelt, Thymeleaf]
 
-[25.10.18~19](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-19.md) - [커뮤니티 프로젝트 프론트 기능 구현]
+### [10월 셋째주, 5주차] : HTML / CSS / JS
+
+[25.10.18~19](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-19.md) - [커뮤니티 프로젝트 프론트 기능 구현 : 게시물]
+
+[25.10.16](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-16.md) - [커뮤니티 프로젝트 프론트 기능 구현 : 회원]

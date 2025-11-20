@@ -2,9 +2,11 @@
 
 ### [11월 셋째주, 10주차] : DevOps
 
+[25.11.20](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-20.md) - [컨테이너 관리 - Docker Compose] - [도커배포과정](https://velog.io/@yujin22/%EB%8B%A8%EC%9D%BC-EC2%EC%97%90%EC%84%9C-Express-Spring-MySQL-%EB%B9%85%EB%B1%85-%EB%B0%B0%ED%8F%AC)
+
 [25.11.19](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-19.md) - [컨테이너 네트워크, 프록시]
 
-[25.11.18](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-18.md) - [컨테이너 관리]
+[25.11.18](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-18.md) - [컨테이너 관리 - Portainer, Volume]
 
 [25.11.17](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-17.md) - [컨테이너 기초]
 

@@ -2,6 +2,8 @@
 
 ### [11월 셋째주, 10주차] : DevOps
 
+[25.11.21](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-21.md) - [딥다이브] - [Docker Image 얼마나 커야 ‘크다’고 말할까? - 최적화 전략](https://velog.io/@yujin22/DeepDive-Route-53%EA%B3%BC-ELB%EC%9D%98-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%84-%EB%B6%84%EC%82%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+
 [25.11.20](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-20.md) - [컨테이너 관리 - Docker Compose] - [도커배포과정](https://velog.io/@yujin22/%EB%8B%A8%EC%9D%BC-EC2%EC%97%90%EC%84%9C-Express-Spring-MySQL-%EB%B9%85%EB%B1%85-%EB%B0%B0%ED%8F%AC)
 
 [25.11.19](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-19.md) - [컨테이너 네트워크, 프록시]
@@ -12,7 +14,7 @@
 
 ### [11월 둘째주, 9주차] : 클라우드 컴퓨팅
 
-[25.11.14](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-14.md) - [Route 53과 ELB를 활용해 글로벌 트래픽을 분산 처리하는 방법] - [딥다이브](https://velog.io/@yujin22/DeepDive-Route-53%EA%B3%BC-ELB%EC%9D%98-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%84-%EB%B6%84%EC%82%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+[25.11.14](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-14.md) - [딥다이브] - [정답 없는 아키텍처? 내가 이해한 Route 53 & ELB 글로벌 분산 전략](https://velog.io/@yujin22/DeepDive-Route-53%EA%B3%BC-ELB%EC%9D%98-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%84-%EB%B6%84%EC%82%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
 [25.11.13](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-13.md) - [AWS - 모니터링, 배포]
 
@@ -26,7 +28,7 @@
 
 [25.11.08](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-08.md) - [개인 프로젝트에 무한스크롤, 페이징 적용]
 
-[25.11.07](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-06.md) - [대규모 이벤트 상황에서의 네트워크 병목 완화 전략은 무엇일까] - [딥다이브](https://velog.io/@yujin22/DeepDive-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%91%EB%AA%A9-%ED%98%84%EC%83%81%EC%9D%84-%EC%99%84%ED%99%94%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%A0%84%EB%9E%B5)
+[25.11.07](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-06.md) - [딥다이브] - [대규모 이벤트 상황에서의 네트워크 병목 완화 전략은 무엇일까?](https://velog.io/@yujin22/DeepDive-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EB%B3%91%EB%AA%A9-%ED%98%84%EC%83%81%EC%9D%84-%EC%99%84%ED%99%94%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%A0%84%EB%9E%B5)
 
 [25.11.06](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-06.md) - [네트워크 모델, IP]
 
@@ -38,7 +40,7 @@
 
 ### [10월 다섯째주, 7주차] : 인증인가
 
-[25.10.31](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-31.md) - [서버 입장에서의 진정한 로그아웃이란] - [딥다이브](https://www.notion.so/29dd4ce9f53f80c69ed7e138fdba0903?source=copy_link)
+[25.10.31](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-31.md) - [딥다이브] - [서버 입장에서의 진정한 로그아웃이란?](https://www.notion.so/29dd4ce9f53f80c69ed7e138fdba0903?source=copy_link)
 
 [25.10.30](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-30.md) - [OAuth]
 

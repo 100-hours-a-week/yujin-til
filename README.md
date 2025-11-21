@@ -2,7 +2,7 @@
 
 ### [11월 셋째주, 10주차] : DevOps
 
-[25.11.21](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-21.md) - [딥다이브] - [Docker Image 얼마나 커야 ‘크다’고 말할까? - 최적화 전략](https://velog.io/@yujin22/DeepDive-Route-53%EA%B3%BC-ELB%EC%9D%98-%EA%B8%80%EB%A1%9C%EB%B2%8C-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%84-%EB%B6%84%EC%82%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+[25.11.21](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-21.md) - [딥다이브] - [Docker Image 얼마나 커야 ‘크다’고 말할까? - 최적화 전략](https://velog.io/@yujin22/DeepDive-Docker-Image-%EC%96%BC%EB%A7%88%EB%82%98-%EC%BB%A4%EC%95%BC-%ED%81%AC%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%95%A0%EA%B9%8C-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%A0%84%EB%9E%B5)
 
 [25.11.20](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-20.md) - [컨테이너 관리 - Docker Compose] - [도커배포과정](https://velog.io/@yujin22/%EB%8B%A8%EC%9D%BC-EC2%EC%97%90%EC%84%9C-Express-Spring-MySQL-%EB%B9%85%EB%B1%85-%EB%B0%B0%ED%8F%AC)
 

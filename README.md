@@ -4,7 +4,7 @@
 
 [25.11.21](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-21.md) - [딥다이브] - [Docker Image 얼마나 커야 ‘크다’고 말할까? - 최적화 전략](https://velog.io/@yujin22/DeepDive-Docker-Image-%EC%96%BC%EB%A7%88%EB%82%98-%EC%BB%A4%EC%95%BC-%ED%81%AC%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%95%A0%EA%B9%8C-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%A0%84%EB%9E%B5)
 
-[25.11.20](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-20.md) - [컨테이너 관리 - Docker Compose] - [도커배포과정](https://velog.io/@yujin22/%EB%8B%A8%EC%9D%BC-EC2%EC%97%90%EC%84%9C-Express-Spring-MySQL-%EB%B9%85%EB%B1%85-%EB%B0%B0%ED%8F%AC)
+[25.11.20](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-20.md) - [컨테이너 관리 - Docker Compose] - [BE/FE/DB/Nginx/Registry를 EC2 하나에 올리다 생긴 일 (Docker Compose 배포기)](https://velog.io/@yujin22/Docker-Compose-%EB%B0%B0%ED%8F%AC%EA%B8%B0)
 
 [25.11.19](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-19.md) - [컨테이너 네트워크, 프록시]
 
@@ -32,7 +32,7 @@
 
 [25.11.06](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-06.md) - [네트워크 모델, IP]
 
-[25.11.05](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-05.md) - [네트워크 용어 추가] - [배포과정](https://velog.io/@yujin22/%EB%8B%A8%EC%9D%BC-EC2%EC%97%90%EC%84%9C-Express-Spring-MySQL-%EB%B9%85%EB%B1%85-%EB%B0%B0%ED%8F%AC)
+[25.11.05](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-05.md) - [네트워크 용어 추가] - [단일 EC2에서 Express + Spring + MySQL 빅뱅 배포](https://velog.io/@yujin22/%EB%8B%A8%EC%9D%BC-EC2%EC%97%90%EC%84%9C-Express-Spring-MySQL-%EB%B9%85%EB%B1%85-%EB%B0%B0%ED%8F%AC)
 
 [25.11.04](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-04.md) - [네트워크 기초,장비,용어]
 

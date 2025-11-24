@@ -1,5 +1,9 @@
 ## 🚀 오늘 내가 배운 것들(Today I Learned)
 
+### [11월 넷째주, 11주차] : CI/CD
+
+[25.11.24](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-24.md) - [CI/CD]
+
 ### [11월 셋째주, 10주차] : DevOps
 
 [25.11.21](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-21.md) - [딥다이브] - [Docker Image 얼마나 커야 ‘크다’고 말할까? - 최적화 전략](https://velog.io/@yujin22/DeepDive-Docker-Image-%EC%96%BC%EB%A7%88%EB%82%98-%EC%BB%A4%EC%95%BC-%ED%81%AC%EB%8B%A4%EA%B3%A0-%EB%A7%90%ED%95%A0%EA%B9%8C-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%A0%84%EB%9E%B5)

@@ -71,3 +71,5 @@
 [25.10.16](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-16.md) - [커뮤니티 프로젝트 프론트 기능 구현 : 회원]
 
 [25.10.15](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-15.md) - [커뮤니티 프로젝트 프론트 통신 구현 : MPA 랜더링, 프록시 서버]
+
+[25.10.13](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-13.md) - [웹 기초/응용]

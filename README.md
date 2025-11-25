@@ -75,3 +75,7 @@
 [25.10.15](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-15.md) - [커뮤니티 프로젝트 프론트 통신 구현 : MPA 랜더링, 프록시 서버]
 
 [25.10.13](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-13.md) - [웹 기초/응용]
+
+### [10월 첫째주, 4주차] : Spring Boot 기본
+
+[25.10.02](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-02.md) - [JPQL, SPRING Data JPA, Query DSL]

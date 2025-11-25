@@ -2,7 +2,7 @@
 
 ### [11월 넷째주, 11주차] : CI/CD
 
-[25.11.25](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-25.md) - []
+[25.11.25](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-25.md) - [무중단 배포 전략]
 
 [25.11.24](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-24.md) - [CI/CD]
 

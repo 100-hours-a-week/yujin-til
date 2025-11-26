@@ -81,3 +81,5 @@
 ### [10월 첫째주, 4주차] : Spring Boot 기본
 
 [25.10.02](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-02.md) - [JPQL, SPRING Data JPA, Query DSL]
+
+[25.10.01](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-01.md) - [레이어드 아키텍쳐, 값타입과 임베디드 매핑]

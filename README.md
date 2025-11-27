@@ -2,6 +2,8 @@
 
 ### [11월 넷째주, 11주차] : CI/CD
 
+[25.11.27](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-27.md) - []
+
 [25.11.26](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-26.md) - [Github Actions CI/CD 구축 & 배포 오류 해결]
 
 [25.11.25](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-25.md) - [무중단 배포 전략]

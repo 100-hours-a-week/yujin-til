@@ -2,9 +2,11 @@
 
 ### [11월 넷째주, 11주차] : CI/CD
 
+[25.11.30](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-30.md) - [파일 업로드 처리 : Presigned URL]
+
 [25.11.28](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-28.md) - [멀티 인프라 구조 트러블슈팅 정리]
 
-[25.11.27](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-27.md) - [파일 업로드 처리 : 클라이언트(Lambda)]
+[25.11.27](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-27.md) - [파일 업로드 처리 : Lambda]
 
 [25.11.26](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-26.md) - [Github Actions CI/CD 구축 & 배포 오류 해결]
 

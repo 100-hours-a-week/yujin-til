@@ -1,5 +1,9 @@
 ## 🚀 오늘 내가 배운 것들(Today I Learned)
 
+### [12월 첫째주, 12주차] : Kubernetes
+
+[25.12.01](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-01.md) - [Kubernetes 기초]
+
 ### [11월 넷째주, 11주차] : CI/CD
 
 [25.11.30](https://github.com/100-hours-a-week/yujin-til/blob/main/Nov/2025-11-30.md) - [파일 업로드 처리 : Presigned URL]

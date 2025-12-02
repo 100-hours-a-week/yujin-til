@@ -2,6 +2,8 @@
 
 ### [12월 첫째주, 12주차] : Kubernetes
 
+[25.12.02](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-02.md) - [Kubernetes Pod와 리소스, 네트워킹]
+
 [25.12.01](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-01.md) - [Kubernetes 기초]
 
 ### [11월 넷째주, 11주차] : CI/CD

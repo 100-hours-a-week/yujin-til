@@ -2,7 +2,9 @@
 
 ### [12월 첫째주, 12주차] : Kubernetes
 
-[25.12.03](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-03.md) - [Controller 심화학습, 스케줄링과 오토스케일링]
+[25.12.04](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-04.md) - [Kubernetes 보안, 모니터링, 운영구성]
+
+[25.12.03](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-03.md) - [Kubernetes Controller 심화학습, 스케줄링과 오토스케일링]
 
 [25.12.02](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-02.md) - [Kubernetes Pod와 리소스, 네트워킹]
 

@@ -1,5 +1,9 @@
 ## 🚀 오늘 내가 배운 것들(Today I Learned)
 
+### [12월 둘째주, 13주차] : 개인 프로젝트 마무리 & 부하테스트
+
+[25.12.08](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-08.md) - [테스트]
+
 ### [12월 첫째주, 12주차] : Kubernetes
 
 [25.12.04](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-04.md) - [Kubernetes 보안, 모니터링, 운영구성]

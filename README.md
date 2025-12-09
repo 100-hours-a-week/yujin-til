@@ -107,3 +107,5 @@
 [25.10.01](https://github.com/100-hours-a-week/yujin-til/blob/main/Oct/2025-10-01.md) - [레이어드 아키텍쳐, 값타입과 임베디드 매핑]
 
 [25.09.30](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-30.md) - [영속성 컨텍스트, 연관관계 매핑]
+
+[25.09.29](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-29.md) - [Spring boot 기본]

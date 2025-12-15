@@ -2,6 +2,8 @@
 
 ### [12월 둘째주, 13주차] : 개인 프로젝트 마무리 & 부하테스트
 
+[25.12.10~12](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-10.md) - [부하테스트]
+
 [25.12.09](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-09.md) - [프로젝트 마무리] - [단일 EC2의 한계를 넘어서: Closet Lounge 최종 배포 아키텍처 구성기](https://velog.io/@yujin22/ClosetLoungeNetwork)
 
 [25.12.08](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-08.md) - [테스트]

@@ -115,3 +115,7 @@
 [25.09.30](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-30.md) - [영속성 컨텍스트, 연관관계 매핑]
 
 [25.09.29](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-29.md) - [Spring boot 기본]
+
+### [9월 넷째주, 3주차] : Database
+
+[25.09.26](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-26.md) - [SQL 실행계획은 누가 정할까? - DB 옵티마이저](https://velog.io/@yujin22/DeepDive-%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80)

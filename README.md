@@ -1,9 +1,5 @@
 ## 🚀 오늘 내가 배운 것들(Today I Learned)
 
-### [12월 셋째주, 14주차] : AI 특강 & AI 해커톤
-
-[25.12.15~16](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-15.md) - [AI특강]
-
 ### [12월 둘째주, 13주차] : 개인 프로젝트 마무리 & 부하테스트
 
 [25.12.10~12](https://github.com/100-hours-a-week/yujin-til/blob/main/Dec/2025-12-10.md) - [부하테스트]
@@ -119,3 +115,5 @@
 ### [9월 넷째주, 3주차] : Database
 
 [25.09.26](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-26.md) - [SQL 실행계획은 누가 정할까? - DB 옵티마이저](https://velog.io/@yujin22/DeepDive-%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80)
+
+[25.09.25](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-25.md) - [서버캐시, 동시성 제어]

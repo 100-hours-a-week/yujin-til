@@ -2,7 +2,7 @@
 
 ### [12월 셋째주, 14주차] : AI 해커톤
 
-[25.12.17~19](https://github.com/Yu-Jin22/KTB-Hackathon-11) - [AI 해커톤]
+[25.12.17~19](https://github.com/Yu-Jin22/KTB-Hackathon-11) - [요리 쇼츠를 ‘완성되는 한 끼’로 바꾼 AI 요리 파트너]
 
 ### [12월 둘째주, 13주차] : 개인 프로젝트 마무리 & 부하테스트
 

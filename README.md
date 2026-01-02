@@ -121,3 +121,5 @@
 [25.09.26](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-26.md) - [SQL 실행계획은 누가 정할까? - DB 옵티마이저](https://velog.io/@yujin22/DeepDive-%EC%98%B5%ED%8B%B0%EB%A7%88%EC%9D%B4%EC%A0%80)
 
 [25.09.25](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-25.md) - [서버캐시, 동시성 제어]
+
+[25.09.24](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-24.md) - [NoSQL, DB의 확장]

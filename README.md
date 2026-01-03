@@ -123,3 +123,5 @@
 [25.09.25](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-25.md) - [서버캐시, 동시성 제어]
 
 [25.09.24](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-24.md) - [NoSQL, DB의 확장]
+
+[25.09.23](https://github.com/100-hours-a-week/yujin-til/blob/main/Sep/2025-09-23.md) - [DB 기초]
